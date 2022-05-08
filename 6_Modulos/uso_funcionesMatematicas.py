@@ -11,5 +11,5 @@
 
 
 #El asterisco sirve para traer todas las funciones del modulo
-from funciones_matematicas import *
+from funcionesMatematicas import *
 restar(7,2)
